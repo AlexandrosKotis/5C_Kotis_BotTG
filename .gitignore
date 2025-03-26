@@ -135,5 +135,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 package-lock.json
-DB.sqlite
-config.js
+database.sqlite
+config.json
